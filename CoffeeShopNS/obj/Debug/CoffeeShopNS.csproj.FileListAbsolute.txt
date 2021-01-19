@@ -1,0 +1,5 @@
+E:\5th Semester\SC LAB\VS Projects\CoffeeShopNS\CoffeeShopNS\bin\Debug\CoffeeShopNS.dll
+E:\5th Semester\SC LAB\VS Projects\CoffeeShopNS\CoffeeShopNS\bin\Debug\CoffeeShopNS.pdb
+E:\5th Semester\SC LAB\VS Projects\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.csprojResolveAssemblyReference.cache
+E:\5th Semester\SC LAB\VS Projects\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.dll
+E:\5th Semester\SC LAB\VS Projects\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.pdb
